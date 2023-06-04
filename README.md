@@ -7,6 +7,6 @@
 
  <p align="justify">Portfolio made using Jekyll, Sass, and Gulp.js.</p>
 
-![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg)
+![My Alternate Portfolio Website](https://github.com/CGutii/CGutii.github.io/blob/main/assets/img/jpg/LandingPage.jpg)
 
 Please hit me up at Cristiangutierrez@knights.ucf.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
