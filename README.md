@@ -3,7 +3,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](cristiangutierrez@knights.ucf.edu)
 [![Author](https://img.shields.io/badge/Author-Cristian%20D%20Gutierrez-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-1%20June%202023-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
 
  <p align="justify">Portfolio made using Jekyll, Sass, and Gulp.js.</p>
 
